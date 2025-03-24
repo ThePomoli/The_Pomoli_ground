@@ -305,6 +305,10 @@ html, body {
 }
 #groundpage .container {
   width: 70.3vw;
-  margin: auto;
+}
+
+video {
+  width: 100%;
+  height: auto;
 }
 /*# sourceMappingURL=main.css.map */
