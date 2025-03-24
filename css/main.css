@@ -303,10 +303,6 @@ html, body {
 #groundpage {
   display: none;
 }
-#groundpage .container {
-  width: 70.3vw;
-}
-
 video {
   width: 100%;
   height: auto;
